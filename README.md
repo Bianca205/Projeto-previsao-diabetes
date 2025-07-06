@@ -21,15 +21,16 @@ Os seguintes classificadores foram treinados e avaliados:
 - `SVC (Support Vector Classifier)`
 - `XGBClassifier (Extreme Gradient Boosting)`
 
-##  Estrutura do projeto
+ -> Estrutura do projeto
 
-├── Analise_exploratoria_LogisticRegression.ipynb
-├── analise_exploratoria_RandomForest.ipynb
-├── Analise_exploratoria_SVC.ipynb
-├── Analise_exploratoria_XGBClassifier.ipynb
-├── diabetes.csv
-├── requirements.txt
+├── Analise_exploratoria_LogisticRegression.ipynb  
+├── analise_exploratoria_RandomForest.ipynb  
+├── Analise_exploratoria_SVC.ipynb  
+├── Analise_exploratoria_XGBClassifier.ipynb  
+├── diabetes.csv  
+├── requirements.txt  
 └── README.md
+
 
 
 ## Técnicas aplicadas
